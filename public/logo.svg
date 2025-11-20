@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 360 80" fill="none">
+  <rect width="360" height="80" rx="8" fill="white"/>
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="60" height="60" rx="6" fill="#000"/>
+    <path d="M10 20h40M10 30h40M10 40h28" stroke="#00B7FF" stroke-width="3" stroke-linecap="square"/>
+  </g>
+  <text x="90" y="50" font-family="Instrument Serif, serif" font-size="28" fill="#000">Console Cowboys</text>
+</svg>
